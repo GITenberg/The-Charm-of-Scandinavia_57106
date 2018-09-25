@@ -1,0 +1,23 @@
+_repo: The-Charm-of-Scandinavia_57106
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Clark, Francis Edward
+    gutenberg_agent_id: '49194'
+    url: http://www.gutenberg.org/2009/agents/49194
+  - agent_name: Clark, Sydney
+    gutenberg_agent_id: '49195'
+    url: http://www.gutenberg.org/2009/agents/49195
+description: ''
+gutenberg_issued: '2018-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57106'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Charm of Scandinavia
+url: http://www.gutenberg.org/ebooks/57106
